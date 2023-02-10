@@ -1,4 +1,4 @@
-# EfficientDet Integration for Object Detection on CM2290
+# EfficientDet Integration for Object Detection on CM2290 with SNPE
 ## Introduction
 This project is intended to build and deploy an AI powered application that can detect various objects and will be integrated with the Thundercomm TurboX CM2290 Development Kit using Deep Learning model. 
 
